@@ -1,0 +1,7 @@
+.env
+.git
+.venv/
+template/
+py_cache/
+
+gemini_test.py
